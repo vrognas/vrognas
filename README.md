@@ -9,9 +9,9 @@
 I'm an aspiring pharmacometrician with an MSc in Chemical Engineering. I'm interested in leveraging the power of software to further our knowledge in the drug development field.
 
 ## My Toolkit 🛠️
-- Fluent in: R and NMTRAN/NONMEM (6+ years experience)
-- Currently mastering: Python and TypeScript
-- Reach out: viktor.rognas@farmaci.uu.se
+- Fluent in: R and NMTRAN/NONMEM
+- Limited experience in: Python and TypeScript
+- Reach out: viktor.rognas@gmail.com
 - Dive deeper: [My Website](https://www.vrognas.com)
 
 ## Software Contributions 🖥️
