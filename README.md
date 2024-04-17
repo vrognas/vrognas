@@ -19,6 +19,7 @@ I'm an aspiring pharmacometrician with an MSc in Chemical Engineering. I'm inter
 ### Authored Projects 📝
 - [*vscode-nmtran*](https://github.com/vrognas/vscode-nmtran): Boosting Visual Studio Code with NMTRAN (NONMEM) language support
 - [*vmisc*](https://github.com/vrognas/vmisc): A handy toolbox of custom R-functions, crafted over the years
+- [*MPAcolors*](https://github.com/vrognas/MPAcolors): ggplot2-compatible functions for colors used by the Swedish Medical Products Agency (MPA)
 
 ### Collaborations 🤝
 - [*PharmPy*](https://pharmpy.github.io/latest/index.html): Pioneering tools and libraries for the pharmacometrics community
