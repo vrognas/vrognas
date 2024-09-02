@@ -4,9 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrognas/)
 [![Google Scholar](https://img.shields.io/badge/Google_scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=RBJi1XQAAAAJ&hl=en)
-# Hej! 👋
-
-I'm an aspiring pharmacometrician with an MSc in Chemical Engineering. I'm interested in leveraging the power of software to further our knowledge in the drug development field.
 
 ## My Toolkit 🛠️
 - Fluent in: R and NMTRAN/NONMEM
