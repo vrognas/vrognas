@@ -7,17 +7,9 @@
 
 ## My Toolkit 🛠️
 - Fluent in: R and NMTRAN/NONMEM
-- Limited experience in: Python and TypeScript
-- Reach out: viktor.rognas@gmail.com
-- Dive deeper: [My Website](https://www.vrognas.com)
+- Limited experience in: Python and TypeScript/JavaScript
 
-## Software Contributions 🖥️
-
-### Authored Projects 📝
+## Authored Projects 📝
 - [*vscode-nmtran*](https://github.com/vrognas/vscode-nmtran): Boosting Visual Studio Code with NMTRAN (NONMEM) language support
 - [*vmisc*](https://github.com/vrognas/vmisc): A handy toolbox of custom R-functions, crafted over the years
 - [*MPAcolors*](https://github.com/vrognas/MPAcolors): ggplot2-compatible functions for colors used by the Swedish Medical Products Agency (MPA)
-
-### Collaborations 🤝
-- [*PharmPy*](https://pharmpy.github.io/latest/index.html): Pioneering tools and libraries for the pharmacometrics community
-
