@@ -4,9 +4,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrognas/)
 [![Google Scholar](https://img.shields.io/badge/Google_scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=RBJi1XQAAAAJ&hl=en)
+# Viktor Rognås
 
 ## My Toolkit 🛠️
-- Fluent in: R and NMTRAN/NONMEM
+- Fluent in: R (tidyverse) and NMTRAN/NONMEM
+  - Using [Positron](https://positron.posit.co)
 - Limited experience in: Python and TypeScript/JavaScript
 
 ## Authored Projects 📝
