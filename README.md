@@ -2,6 +2,8 @@
 **vrognas/vrognas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+[buymeacoffee.com/vrognas](buymeacoffee.com/vrognas)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrognas/)
 [![Google Scholar](https://img.shields.io/badge/Google_scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=RBJi1XQAAAAJ&hl=en)
 # Viktor Rognås
